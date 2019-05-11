@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1557257308 source:c:\users\francisco\desktop\tp's\tp2\tp_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1557265162 c:\users\francisco\desktop\tp's\tp2\tp_empleados\arrayemployees.h
+
+1557257225 source:c:\users\francisco\desktop\tp's\tp2\tp_empleados\arrayemployees.c
+	"ArrayEmployees.h"
+	<string.h>
+	<stdio.h>
+
+1557537902 source:c:\users\francisco\desktop\facultad\tp's\tp2\tp_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1557535037 c:\users\francisco\desktop\facultad\tp's\tp2\tp_empleados\arrayemployees.h
+
+1557539553 source:c:\users\francisco\desktop\facultad\tp's\tp2\tp_empleados\arrayemployees.c
+	"ArrayEmployees.h"
+	<string.h>
+	<stdio.h>
+
